@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "quantxdata": {
+      "command": "npx",
+      "args": ["-y", "@quantxdata/mcp-server"],
+      "env": {
+        "QUANTXDATA_EMAIL": "your-email@example.com",
+        "QUANTXDATA_SIGNING_KEY": "your-signing-key-here"
+      }
+    }
+  }
+}
