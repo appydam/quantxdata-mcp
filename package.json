@@ -1,6 +1,6 @@
 {
   "name": "quantxdata-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "QuantXData MCP Server — Access real-time crypto market data from 123+ exchanges via MCP protocol. Trades, OHLCV, orderbooks, options, and more.",
   "main": "dist/index.js",
   "bin": {
